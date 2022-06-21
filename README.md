@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NazakatMallick
 - 👀 I’m interested in Data and Cloud
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on Data analytics
+- 💞️ I’m looking to collaborate on Cloud and Data analytics
 - 📫 How to reach me : Through email 
 
 <!---
